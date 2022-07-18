@@ -1,0 +1,8 @@
+/node_modules
+/.vscode
+/out
+/log
+/wits_config.json
+/buffer.json
+/dist
+/mwdstd_wits.exe
